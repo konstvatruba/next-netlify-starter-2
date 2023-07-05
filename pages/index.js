@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Gracias por visitarnos!" />
+        <Header title="¡Gracias por visitarnos!" />
         <p className="description">
           Estamos desarrollando nuestra nueva página web y nuevas activadades como empresa! 
           Se vienen mas cosas en Agosto 2023
