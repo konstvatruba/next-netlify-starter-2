@@ -7,7 +7,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Vultur Chile</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/Logo_Small.png" />
       </Head>
 
       <main>
